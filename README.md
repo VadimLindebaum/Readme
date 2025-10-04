@@ -1,6 +1,6 @@
 # Readme
 Luua github profile
-# Hei, mina olen [Sinu Nimi] 👋
+# Hei, mina olen Jurka 👋
 Õpin ja katsetan tarkvaraarendust ning tööstusvõrkude seadistamist. Teen väikeseid projekte ja õpetan endale uusi oskusi praktiliselt.
 
 ## Mis mind huvitab
@@ -10,13 +10,56 @@ Luua github profile
 - Elektroonika ja RS485 kaablid
 
 ## Hiljutised projektid
-- **Fixus.ee esilehe koopia (Bootstrap)** — seadmetundlik front-end ülesanne
+- **car-parts2 esilehe koopia (Bootstrap)** — seadmetundlik front-end ülesanne
 - **API CSV → JSON** — lihtne API, mis ekspordib CSV-ist andmeid JSON-ina
+- weather and Taeduslik-kalkuljatoor
 
 ## Õppematerjalid / Ülesanded
 - Loon õppematerjale pööratud klassiruumi põhimõttel (Node.js backend + React frontend)
 - CI/CD näited GitHub Actionsiga
 
-## Kontakt
-- Email: `nimi@mail.com`
+  About Me
+
+Hi, I'm Jurka, a passionate learner and software developer from Tallinn, Estonia. Welcome to my GitHub profile!
+
+🏢 I currently work at eunomia-bpf to create eBPF-based solutions for the cloud
+🌍 Find me on the web: 
+https://hypereng.netlify.app/
+✉️ Contact me: https://discord.gg/3chxC6Ygg
+📖 I love exploring new technologies and applying them to solve real-world problems
+🙋‍♂️ A bit more about me
+
+I started my coding journey in 2017, and since then, I have been dedicated to expanding my knowledge and skills. I believe that having a curious and open mind allows me to continue learning and improving.
+
+👨‍💻 Stats
+
+Github StatsTop Langs
+
+![image](https://github.com/user-attachments/assets/aecb446b-3cb9-432f-81c6-7eab489d0441)
+
+Feel free to explore my repositories to get a better sense of my work and interests.
+
+🏆 Achievements
+
+Here are some notable achievements and contributions:
+
+trophy
+![image](https://github.com/user-attachments/assets/2b5ed5b5-f081-4b10-849d-a311c7b6f848)
+![image](https://github.com/user-attachments/assets/caa67e71-d128-4034-b9c1-dbec38cf9120)
+
+
+These achievements are a testament to my dedication and passion for coding.
+
+✨ Let's Connect
+
+I would love to connect with fellow developers, entrepreneurs, and technology enthusiasts. Here are a few ways to get in touch with me:
+
+Website: https://hypereng.netlify.app/
+Discord: https://discord.gg/3chxC6Ygg
+GitHub: https://github.com/VadimLindebaum/Readme.git
+Let's collaborate, share ideas, and make meaningful contributions to the world of technology!
+
+Thank you for taking the time to visit my GitHub profile and read this README. Feel free to explore my projects, and don't hesitate to reach out if you have any questions or opportunities for collaboration. Together, we can make a positive impact in the world of software development!
+
+## Kontakt`
 - GitHub: `https://github.com/
