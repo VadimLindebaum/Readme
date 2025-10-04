@@ -25,7 +25,9 @@ Hi, I'm Jurka, a passionate learner and software developer from Tallinn, Estonia
 🏢 I currently work at eunomia-bpf to create eBPF-based solutions for the cloud
 🌍 Find me on the web: 
 https://hypereng.netlify.app/
+
 ✉️ Contact me: https://discord.gg/3chxC6Ygg
+
 📖 I love exploring new technologies and applying them to solve real-world problems
 🙋‍♂️ A bit more about me
 
