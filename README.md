@@ -54,9 +54,11 @@ These achievements are a testament to my dedication and passion for coding.
 
 I would love to connect with fellow developers, entrepreneurs, and technology enthusiasts. Here are a few ways to get in touch with me:
 
-Website: https://hypereng.netlify.app/
+Website:https://hypereng.netlify.app/
 Discord: https://discord.gg/3chxC6Ygg
-GitHub: https://github.com/VadimLindebaum/Readme.git
+
+GitHub:https://github.com/VadimLindebaum/Readme.git
+
 Let's collaborate, share ideas, and make meaningful contributions to the world of technology!
 
 Thank you for taking the time to visit my GitHub profile and read this README. Feel free to explore my projects, and don't hesitate to reach out if you have any questions or opportunities for collaboration. Together, we can make a positive impact in the world of software development!
