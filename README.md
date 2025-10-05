@@ -30,7 +30,7 @@ https://hypereng.netlify.app/
 
 ## 🌐 Find me online
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/@lindebaum61211)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)]([https://github.com/VadimLindebaum/Readme.git])
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/VadimLindebaum/Readme.git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/VadimLindebaum)
 
 📖 I love exploring new technologies and applying them to solve real-world problems
