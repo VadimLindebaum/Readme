@@ -35,6 +35,22 @@ I started my coding journey in 2017, and since then, I have been dedicated to ex
 
 👨‍💻 Stats
 
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+
+---
+
+## 📊 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+
 Github StatsTop Langs
 
 ![image](https://github.com/user-attachments/assets/aecb446b-3cb9-432f-81c6-7eab489d0441)
