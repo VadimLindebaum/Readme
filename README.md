@@ -20,7 +20,7 @@ Luua github profile
 
   About Me
 
-Hi, I'm Jurka, a passionate learner and software developer from Tallinn, Estonia. Welcome to my GitHub profile!
+Hi, I'm JurkaIlya, a passionate learner and software developer from Tallinn, Estonia. Welcome to my GitHub profile!
 
 🏢 I currently work at eunomia-bpf to create eBPF-based solutions for the cloud
 🌍 Find me on the web: 
